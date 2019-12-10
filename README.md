@@ -11,3 +11,7 @@ In the script (async or normal ones), instead of "`return`" use "`module.exports
 ## Build
 
 > `npm run build`
+
+### Credits
+
+Thanks to Tobias Koppers @sokra for the help and the plugin.
