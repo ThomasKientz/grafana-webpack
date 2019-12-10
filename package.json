@@ -1,0 +1,16 @@
+{
+  "name": "dashboards",
+  "version": "1.0.0",
+  "description": "graphana dashboards",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
